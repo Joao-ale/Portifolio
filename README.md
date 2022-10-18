@@ -1,6 +1,8 @@
 ## Hello everbody 👋
 ### My name is João
 #### I am Developer student in love with tecnologies and play soccer in my free time  
+#### This repository serves to demonstrate my small projects
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' justify-content='column'>](https://github.com/https://github.com/Joao-ale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joão-alexandre-b23aa1190//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_joaoalexandresilva//)  
 
 ![I am Developer student in love with tecnologies and play soccer in my free time](https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60)
